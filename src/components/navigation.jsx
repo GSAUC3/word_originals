@@ -1,6 +1,7 @@
-import React from "react";
+import { useState } from "react";
 
 export const Navigation = (props) => {
+  const [collapse,setCollapse] = useState(true)
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -8,25 +9,24 @@ export const Navigation = (props) => {
           <button
             type="button"
             className="navbar-toggle collapsed"
-            data-toggle="collapse"
-            data-target="#bs-example-navbar-collapse-1"
+            onClick={()=>{
+              setCollapse(col=>!col)
+            }}
           >
-            {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            Word Originals
+          <a className="navbar-brand page-scroll word-logo" href="#page-top">
+            
           </a>{" "}
         </div>
 
         <div
-          className="collapse navbar-collapse"
+          className= {collapse ? "collapse navbar-collapse":"navbar-collapse"}
           id="bs-example-navbar-collapse-1"
         >
-          <ul className="nav navbar-nav navbar-right">
+          <ul className="nav navbar-nav">
             <li>
               <a href="#features" className="page-scroll">
                 Features
@@ -42,11 +42,11 @@ export const Navigation = (props) => {
                 Services
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#portfolio" className="page-scroll">
                 Gallery
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
