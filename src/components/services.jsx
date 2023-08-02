@@ -5,11 +5,11 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <div className="text-6xl mb-10">Our Services</div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          At EarthSouls, we provide a diverse array of services designed to cater to all aspects of your pet's health and well-being. Our state-of-the-art pet care center includes:
           </p>
+          
         </div>
         <div className="row">
           {props.data
@@ -18,7 +18,7 @@ export const Services = (props) => {
                   {" "}
                   <i className={d.icon}></i>
                   <div className="service-desc">
-                    <h3>{d.name}</h3>
+                    <h3 className="text-white">{d.name}</h3>
                     <p>{d.text}</p>
                   </div>
                 </div>

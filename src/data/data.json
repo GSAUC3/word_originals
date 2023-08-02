@@ -1,22 +1,20 @@
 {
   "Header": {
-    "title": "We are the Word Originals",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are the EarthSouls",
+    "paragraph": "Welcome to EarthSouls, your go-to destination for comprehensive and personalized pet care. Our commitment to compassion, kindness, and care makes us India's premier pet-friendly company. Explore our world-class facilities and services, all designed with your pet in mind."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "EarthSouls was born out of a profound love for animals and a passion to provide them with the best care possible. We began our journey in 2017 as a Not-For-Profit initiative, introducing India's first-ever Hydrotherapy and Ayurvedic medicated baths for pets. Our extensive knowledge and experience, gained over 85 years and spanning three generations, sets us apart in the world of pet care. At EarthSouls, we curate a wide range of amenities under one roof, ensuring that your pet's every need is catered to with love and expertise. Our future expansion plans include creating pet-friendly living spaces, making pet care even more accessible for pet parents on the go. With EarthSouls, you're choosing a lifestyle of unparalleled care for your beloved pets.",
     "Why": [
-      "Kaunteya Basu",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "EarthSouls is exclusively dedicated to pet-friendly animal care, offering end-to-end facilities in a warm, welcoming environment.",
+      "Our boarding services provide a noise-free environment during festive seasons, allowing your pet to relax in peace.",
+      "EarthSouls is a community, providing a safe space for pets to socialize and form lasting friendships."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+      "In case of emergency, EarthSouls provides hassle-free pet care, ensuring your pet is never left alone.",
+      "With globally acclaimed infrastructure, EarthSouls offers complete pet treatments and care.",
+      "Travel worry-free knowing your pets are in the capable hands of EarthSouls."
+          ]
   },
   "Gallery": [
     {
@@ -67,65 +65,39 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Services serv",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+
+      "name": "Comprehensive Veterinary Healthcare"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+
+      "name": "Pet Grooming Area"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+
+      "name": "Pet Hostel with Daycare Facility"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "A Mini Movie Theatre for Pets"
+
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      
+      "name": "Pet Swimming Pool with Socialization & Relaxation Area"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Pet Café with Curate d Weekend Events"
+      
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "State-of-the-art Online and Offline Pet Store",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Asia's First Cloud Pet Care ICU",
       "name": "Johnathan Doe"
     }
   ],
